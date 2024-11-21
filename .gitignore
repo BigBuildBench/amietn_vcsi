@@ -1,0 +1,13 @@
+/packaging
+!packaging/arch-vcsi-git/PKGBUILD
+!packaging/arch-vcsi/PKGBUILD
+/.coverage
+/.coveralls.yml
+/coverage.xml
+__pycache__
+/cover
+*.pyc
+/.idea
+/build
+/dist
+/vcsi.egg-info
